@@ -1,0 +1,56 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 930MX (ID=0x134e)
+    Vendor:   NVIDIA
+    VRAM:     2020 MB
+    Driver:   23.20.16.4877
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\HP\Documents\Unity\NacionGame - 1 - 29-MONICAMA\App\nacion_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\HP\Documents\Unity\NacionGame - 1 - 29-MONICAMA\App\nacion_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\HP\Documents\Unity\NacionGame - 1 - 29-MONICAMA\App\nacion_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\HP\Documents\Unity\NacionGame - 1 - 29-MONICAMA\App\nacion_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\HP\Documents\Unity\NacionGame - 1 - 29-MONICAMA\App\nacion_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\HP\Documents\Unity\NacionGame - 1 - 29-MONICAMA\App\nacion_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\HP\Documents\Unity\NacionGame - 1 - 29-MONICAMA\App\nacion_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\HP\Documents\Unity\NacionGame - 1 - 29-MONICAMA\App\nacion_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\HP\Documents\Unity\NacionGame - 1 - 29-MONICAMA\App\nacion_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\HP\Documents\Unity\NacionGame - 1 - 29-MONICAMA\App\nacion_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.031 seconds
+Platform assembly: C:\Users\HP\Documents\Unity\NacionGame - 1 - 29-MONICAMA\App\nacion_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\HP\Documents\Unity\NacionGame - 1 - 29-MONICAMA\App\nacion_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 4.544534 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: cd60 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+The tree naturePack_171 couldn't be instanced because the prefab contains no valid mesh renderer.
+ 
+(Filename:  Line: 160)
+
+UnloadTime: 2.657678 ms
+
+Unloading 35 unused Assets to reduce memory usage. Loaded Objects now: 3174.
+Total: 1.677048 ms (FindLiveObjects: 0.136462 ms CreateObjectMapping: 0.027856 ms MarkObjects: 0.299372 ms  DeleteObjects: 1.212651 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at menuctrl.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.902817 ms
+
+Unloading 59 unused Assets to reduce memory usage. Loaded Objects now: 397.
+Total: 4.083663 ms (FindLiveObjects: 0.067702 ms CreateObjectMapping: 0.058887 ms MarkObjects: 0.476738 ms  DeleteObjects: 3.478219 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.401631 ms
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 5938.
+Total: 2.870306 ms (FindLiveObjects: 0.384000 ms CreateObjectMapping: 0.095911 ms MarkObjects: 0.805025 ms  DeleteObjects: 1.583957 ms)
+
